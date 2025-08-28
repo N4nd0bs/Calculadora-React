@@ -29,3 +29,7 @@ Este projeto é uma calculadora simples desenvolvida em [React](https://react.de
    npm run start
    ```
 4. Acesse `http://localhost:3000` no seu navegador.
+
+## Consideração
+
+Desenvolvido com base nas aula do professor da Dio Pablo Henrique.
